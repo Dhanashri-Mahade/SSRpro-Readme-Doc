@@ -909,7 +909,7 @@ public class TxnItemMtsService {
 * CRUD method names should be meaningful and readable.
 * Controller name must follow entity name.
 
-### **Code Sample (TxnItemMtsService.java)**
+### **Code Sample (TxnItemMtsController.java)**
 
 ```
 package com.siliconmount.ssrpro.controller;
